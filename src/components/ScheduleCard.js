@@ -3,8 +3,10 @@ import React from "react";
 function ScheduleCard() {
 
   return (
-    <div class="grid-container">
+    <div className="grid-container">
       <table className="table">
+        <tbody>
+
         <tr>
           <th>Staff</th>
           <th>Sunday</th>
@@ -85,6 +87,7 @@ function ScheduleCard() {
           </td>
          
         </tr>
+        </tbody>
 
 
 

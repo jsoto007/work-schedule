@@ -14,6 +14,7 @@ code {
 }
 
 .table {
+  align-content: left;
   margin-left: auto;
   margin-right: auto;
 }
