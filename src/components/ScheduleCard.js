@@ -4,7 +4,7 @@ function ScheduleCard() {
 
   return (
     <div class="grid-container">
-      <table>
+      <table className="table">
         <tr>
           <th>Staff</th>
           <th>Sunday</th>
